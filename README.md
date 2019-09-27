@@ -1,0 +1,1 @@
+[![PushTrain build](https://api.kubegrid.com/badge/spartakb/go-server/333.svg)](https://api.github.com/repos/spartakb/go-server) [![Managed by PushTrain](https://api.kubegrid.com/badge-text/managed_by-PushTrain-F17E43.svg)](https://swiftengine.io)
