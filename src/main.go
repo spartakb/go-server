@@ -33,7 +33,7 @@ func router() http.Handler {
 	r.Use(middleware.Timeout(60 * time.Second))
 	
 	r.Get("/", func(w http.ResponseWriter, r *http.Request) {
-		w.Write([]byte("<b>Server Root: v1.001</b>"))
+		w.Write([]byte("<b>Server Root: v1.002</b>"))
 	})
 	
 	return r
